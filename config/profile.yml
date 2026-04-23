@@ -1,0 +1,63 @@
+# Career-Ops Profile Configuration — Teja Naidu Chintha
+
+candidate:
+  full_name: "Teja Naidu Chintha"
+  email: "tejachintha379@gmail.com"
+  phone: "(812) 822-7070"
+  location: "Irving, TX"
+  linkedin: "linkedin.com/in/tejanaiduc"
+  portfolio_url: ""
+  github: ""
+
+target_roles:
+  primary:
+    - "Senior Data Scientist"
+    - "Senior AI/ML Engineer"
+    - "Senior Machine Learning Engineer"
+    - "Applied AI Engineer"
+    - "LLM Engineer"
+  archetypes:
+    - name: "Senior Data Scientist (AI/GenAI focus)"
+      level: "Senior"
+      fit: "primary"
+    - name: "Senior ML / AI Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "LLM / Agentic AI Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "AI Platform / MLOps Engineer"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Data Scientist (Finance / Fraud / Risk)"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  headline: "Data Scientist specializing in agentic AI, RAG pipelines, and production LLM systems"
+  exit_story: "4+ years building ML and GenAI systems in regulated industries (finance, healthcare). Currently at U.S. Bank deploying LLM-powered fraud detection agents. Looking for a role where I can go deeper on agentic AI and GenAI product impact."
+  superpowers:
+    - "End-to-end GenAI systems: from RAG pipeline design to production deployment with evals"
+    - "Agentic AI: multi-agent orchestration, tool use, HITL, LangGraph/CrewAI/AutoGen"
+    - "Regulated industry experience: responsible AI, explainability, compliance in finance & healthcare"
+    - "Full-stack data skills: Python, SQL, Spark, AWS, Azure — from raw data to deployed model"
+    - "LLM evaluation: factuality, grounding, hallucination detection, observability (MLflow, LangSmith)"
+  proof_points:
+    - name: "LLM Fraud Investigation Agents — U.S. Bank"
+      hero_metric: "Automated decision support, reduced manual review effort"
+    - name: "RAG Pipeline for Financial Risk — U.S. Bank"
+      hero_metric: "Improved contextual insight delivery via hybrid search + re-ranking"
+    - name: "Clinical NLP + RAG — Heartland Community Network"
+      hero_metric: "BioBERT-based risk extraction from unstructured clinical notes"
+
+compensation:
+  target_range: "$130K–$160K"
+  currency: "USD"
+  minimum: "$110K"
+  location_flexibility: "Open to remote or hybrid in TX/US"
+
+location:
+  country: "United States"
+  city: "Irving, TX"
+  timezone: "CST"
+  visa_status: "Requires visa sponsorship (H-1B or equivalent)"
