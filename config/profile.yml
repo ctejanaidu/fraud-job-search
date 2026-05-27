@@ -34,8 +34,8 @@ target_roles:
       fit: "primary"
 
 narrative:
-  headline: "Data Scientist specializing in agentic AI, RAG pipelines, and production LLM systems"
-  exit_story: "4+ years building ML and GenAI systems in regulated industries (finance, healthcare). Currently at U.S. Bank deploying LLM-powered fraud detection agents. Looking for a role where I can go deeper on agentic AI and GenAI product impact."
+  headline: "Data Scientist specializing in fraud detection, ML model risk, and production ML systems in regulated finance"
+  exit_story: "4+ years building fraud detection and ML systems at U.S. Bank — XGBoost/LSTM models, real-time Kafka scoring pipelines, and LLM-powered investigation agents. At a large bank, fraud is a cost center; I want to be at a company where fraud prevention is core product. Looking for a role where I can ship faster, own more of the stack, and work with teams where risk intelligence drives roadmap decisions."
   superpowers:
     - "End-to-end GenAI systems: from RAG pipeline design to production deployment with evals"
     - "Agentic AI: multi-agent orchestration, tool use, HITL, LangGraph/CrewAI/AutoGen"
