@@ -383,9 +383,8 @@ tracked_companies:
   # -- Contact Center AI & CX --
 
   - name: Ada
-    careers_url: https://job-boards.greenhouse.io/ada
-    scan_method: websearch
-    scan_query: '"ada.cx" OR "ada" "AI" "Solutions" OR "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
+    careers_url: https://job-boards.greenhouse.io/ada18
+    api: https://boards-api.greenhouse.io/v1/boards/ada18/jobs
     notes: "Toronto + remote. AI customer service."
     enabled: true
 
@@ -543,10 +542,10 @@ tracked_companies:
   # -- European tech (EMEA-friendly) --
 
   - name: Factorial
-    careers_url: https://job-boards.greenhouse.io/factorial
+    careers_url: https://apply.workable.com/factorialhr/
     scan_method: websearch
-    scan_query: 'site:jobs.greenhouse.io/factorial'
-    notes: "Barcelona. HR SaaS unicorn."
+    scan_query: 'site:apply.workable.com/factorialhr "AI" OR "Data" OR "Engineer" OR "Product"'
+    notes: "Barcelona. HR SaaS unicorn. Moved from Greenhouse → Workable."
     enabled: true
 
   - name: Attio
@@ -557,24 +556,23 @@ tracked_companies:
     enabled: true
 
   - name: Tinybird
-    careers_url: https://jobs.ashbyhq.com/tinybird
+    careers_url: https://jobs.lever.co/tinybird
     scan_method: websearch
-    scan_query: 'site:tinybird.co/careers OR site:jobs.ashbyhq.com/tinybird'
-    notes: "Remote. Real-time data platform."
+    scan_query: 'site:jobs.lever.co/tinybird "AI" OR "Data" OR "Engineer" OR "Solutions"'
+    notes: "Remote. Real-time data platform. Moved from Ashby → Lever."
     enabled: true
 
   - name: Clarity AI
-    careers_url: https://jobs.lever.co/clarity-ai
-    scan_method: websearch
-    scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
-    notes: "Madrid/Remote. Sustainability analytics with AI."
+    careers_url: https://job-boards.eu.greenhouse.io/clarityai
+    api: https://boards-api.eu.greenhouse.io/v1/boards/clarityai/jobs
+    notes: "Madrid/Remote. Sustainability analytics with AI. Moved from Lever → EU Greenhouse."
     enabled: true
 
   - name: Travelperk
-    careers_url: https://jobs.ashbyhq.com/travelperk
+    careers_url: https://jobs.ashbyhq.com/Perk
     scan_method: websearch
-    scan_query: 'site:jobs.ashbyhq.com/travelperk'
-    notes: "Barcelona. Business travel unicorn."
+    scan_query: 'site:jobs.ashbyhq.com/Perk "AI" OR "Engineer" OR "Product" OR "Data"'
+    notes: "Barcelona. Business travel unicorn (rebranded to Perk). Ashby slug changed travelperk → Perk."
     enabled: true
 
   # -- US Fintech & Banking (Fraud / Risk / ML) --
@@ -608,8 +606,10 @@ tracked_companies:
     enabled: true
 
   - name: PayPal
-    careers_url: https://jobs.lever.co/paypal
-    notes: "San Jose / Remote. Large fraud & risk data science org."
+    careers_url: https://paypal.eightfold.ai/careers
+    scan_method: websearch
+    scan_query: 'site:paypal.eightfold.ai/careers "Data Scientist" OR "ML" OR "fraud" OR "risk"'
+    notes: "San Jose / Remote. Large fraud & risk data science org. Moved from Lever → Eightfold."
     enabled: true
 
   - name: Visa
@@ -671,14 +671,16 @@ tracked_companies:
   # -- Fraud AI / Financial Crime Specialists --
 
   - name: Feedzai
-    careers_url: https://jobs.lever.co/feedzai
-    notes: "San Mateo / Remote. AI-native fraud platform for banks."
+    careers_url: https://job-boards.greenhouse.io/feedzai
+    api: https://boards-api.greenhouse.io/v1/boards/feedzai/jobs
+    notes: "San Mateo / Remote. AI-native fraud platform for banks. Moved from Lever → Greenhouse."
     enabled: true
 
   - name: Socure
-    careers_url: https://job-boards.greenhouse.io/socure
-    api: https://boards-api.greenhouse.io/v1/boards/socure/jobs
-    notes: "NYC / Remote. Identity verification + fraud prevention. ML-first."
+    careers_url: https://jobs.ashbyhq.com/socure
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/socure "Data Scientist" OR "ML" OR "fraud" OR "risk" OR "AI"'
+    notes: "NYC / Remote. Identity verification + fraud prevention. ML-first. Moved from Greenhouse → Ashby."
     enabled: true
 
   - name: Sardine
@@ -689,16 +691,17 @@ tracked_companies:
     enabled: true
 
   - name: Unit21
-    careers_url: https://job-boards.greenhouse.io/unit21
-    api: https://boards-api.greenhouse.io/v1/boards/unit21/jobs
-    notes: "SF / Remote. AML and fraud ops platform."
+    careers_url: https://unit21.ai/careers
+    scan_method: websearch
+    scan_query: '"unit21" "careers" OR "jobs" "Data Scientist" OR "ML" OR "fraud" OR "risk" OR "engineer"'
+    notes: "SF / Remote. AML and fraud ops platform. Greenhouse board gone — using direct site."
     enabled: true
 
   - name: Alloy
-    careers_url: https://jobs.ashbyhq.com/alloy
+    careers_url: https://www.alloy.com/about/jobs
     scan_method: websearch
-    scan_query: 'site:jobs.ashbyhq.com/alloy'
-    notes: "NYC / Remote. Identity decisioning for fintech. ML/risk roles."
+    scan_query: '"alloy.com" "jobs" OR "careers" "Data Scientist" OR "ML" OR "fraud" OR "risk" OR "engineer"'
+    notes: "NYC / Remote. Identity decisioning for fintech. ML/risk roles. Ashby board gone — using direct site."
     enabled: true
 
   - name: FICO

@@ -1157,10 +1157,10 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7704631003 | Affirm | Analytics Manager, Credit Risk 
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7532268003 | Affirm | Analytics Manager, Full Stack (Fraud Analytics)
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7502858003 | Affirm | IT Engineering Manager (Client Platform Engineering) 
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7695818003 | Affirm | Machine Learning Engineer II (Fraud) 
+- [x] #005 | https://job-boards.greenhouse.io/affirm/jobs/7695818003 | Affirm | MLE II (Fraud) | 2.5/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7646759003 | Affirm | Manager, Software Engineering (Fraud)
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7622736003 | Affirm | Product Manager II, Consumer Experiences
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7696276003 | Affirm | Senior Machine Learning Engineer (Fraud ML)
+- [x] #001 | https://job-boards.greenhouse.io/affirm/jobs/7696276003 | Affirm | Senior MLE (Fraud ML) | 2.5/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7687000003 | Affirm | Senior Manager, Security Risk Management
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7550575003 | Affirm | Senior Manager, Software Engineering (Data & Storage Services)
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7620527003 | Affirm | Senior Product Manager, Card Experience
@@ -1231,3 +1231,236 @@
 - [ ] https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048 | Palantir | Forward Deployed Software Engineer - US Government
 - [ ] https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166 | Palantir | Information Security Engineer - Insider Risk
 - [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems
+
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer (Must be based in Toronto, Canada)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4853250101 | PolyAI | Senior Platform Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4858437101 | Parloa | Business Development Representative (Spain)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | Parloa | GTM Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4866190101 | Parloa | Lead Agent Architect - SAP
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4861871101 | Parloa | Principal Applied Scientist
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4871790101 | Parloa | Senior Agent Architect
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4874171101 | Parloa | Senior Agent Architect - Partner Success 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4873079101 | Parloa | Senior Forward Deployed Engineer - Partner Success
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4866271101 | Parloa |  Senior Forward Deployed Engineer - Partner Success - US
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4719998101 | Parloa | Senior Technical Project Manager - Agentic AI Deployments
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7820671 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7948297 | Intercom | Business Development Representative, Emerging AI Products 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818588 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7943223 | Intercom | Partner Solutions Engineer (NAMER & LATAM)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7742203 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7921414 | Intercom | Senior AI Deployment Consultant - Partners 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7839311 | Intercom | Senior Manager, Customer Campaigns & Lifecycle Marketing
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7917235 | Intercom | Staff AI Designer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7464291 | Intercom | Staff AI Product Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7383950 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461450008 | Anthropic | Account Executive, AI Native 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5208218008 | Anthropic | AI Compliance Officer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5226862008 | Anthropic | Applied AI Architect, Applied AI (Digital Natives Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116820008 | Anthropic | Data Scientist, Platform Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5212119008 | Anthropic | Data Scientist, Supply
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079916008 | Anthropic | Emerging Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4423394008 | Anthropic | Growth Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183021008 | Anthropic | Head of Accounting AI & Innovation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5184077008 | Anthropic | Head of ANZ, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4880880008 | Anthropic | Manager, Account Executive (AI Native)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4976328008 | Anthropic | Manager– Growth Sales (AI-Native)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5197538008 | Anthropic | Manager of Applied AI Architecture, Enterprise Tech (Cyber)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222289008 | Anthropic | Manager of Solutions Architecture, Applied AI (Enterprise Tech)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222908008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5220143008 | Anthropic | Product Manager, Developer Productivity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186965008 | Anthropic | Product Support Specialist (Singapore - Weekend Coverage)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198074008 | Anthropic | Research Engineer, Machine Learning (RL Velocity)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204086008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8536588002 | Airtable | GTM Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8551939002 | Airtable | Strategic Account Executive, AI Specialist
+- [ ] https://jobs.ashbyhq.com/vapi/6d2c731b-64be-45cc-87c8-f6330d29b7f4 | Vapi | Product Manager - Enterprise & Governance Agents
+- [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8a88f764-27f5-46d7-8ce0-0ba15401efb1 | ElevenLabs | Enterprise Solutions Engineer - Brazil
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1a9d687d-0030-4732-8160-f1da54844bba | ElevenLabs | Enterprise Solutions Engineer - ANZ
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany
+- [ ] https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44 | ElevenLabs | Enterprise Solutions Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8af4833-d4a9-4ab4-baec-5da007f6d1e9 | ElevenLabs | General Manager - Spain
+- [ ] https://jobs.ashbyhq.com/deepgram/78b98232-e0f1-4635-bb78-0303c691d21e | Deepgram | Senior AI Community Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5979660004 | Vercel | Pricing Product Manager
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5995789004 | Vercel | Senior Manager, Solutions Architect
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989503004 | Arize AI | AI Solutions Manager, APJ
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989510004 | Arize AI | AI Solutions Manager, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5987435004 | Arize AI | AI Solutions Manager, SMB
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5986448004 | Arize AI | Technical Product Marketing Manager, Competitive Intelligence & Sales Enablement (AI Native)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4693714005 | Glean | AI Outcomes Manager, LATAM
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4613929005 | Glean | AI Success Manager (APAC hours)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661886005 | Glean | AI Success Manager, Central
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661878005 | Glean | AI Success Manager, East 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694339005 | Glean | AI Success Manager, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4665628005 | Glean | CA Industrial Trainee
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4674460005 | Glean | Manager, AI Success
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696058005 | Glean | Product Designer, AI Products
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694761005 | Glean | Product Manager, Agent Security & Governance
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694764005 | Glean | Product Manager, AI Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695491005 | Glean | Senior Integrated Campaign Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694771005 | Glean | Tech Lead Manager, Agentic Runtime 
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5191760008 | RunPod | Developer Relations Lead, AI Infrastructure and Community
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5115139008 | RunPod | Director, Cloud Marketplace and AI Infrastructure Partnerships
+- [ ] https://jobs.ashbyhq.com/sierra/ef109d91-43de-4f96-94e5-fac6f1d8c8e1 | Sierra | Sales Director, Spain
+- [ ] https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/08d96098-7213-44af-98da-f62366189f3b | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra | Strategist, Agent Development (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c | Sierra | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra | Agent Experience Designer, Voice (Multilingual)
+- [ ] https://jobs.ashbyhq.com/sierra/1e052261-0c89-4ccb-abfa-3820a1596a6e | Sierra | Product Manager, Infrastructure
+- [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/4ec841cc-786c-459d-bf83-31b0071a85cc | Decagon | Senior Research Engineer, Voice + Speech
+- [ ] https://jobs.ashbyhq.com/decagon/73ef8e9d-a6b3-4817-ab02-893c4ac72bad | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/7e727fb5-cc08-4728-97ca-2730e965ce41 | Decagon | Staff Research Engineer, Voice + Speech
+- [ ] https://jobs.ashbyhq.com/decagon/7c1282fb-0ab5-47d1-9d06-6804842317f2 | Decagon | Research Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/d53738b5-ca10-4283-be5a-3937aa9e7c59 | Decagon | Senior Agent Product Manager - German Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/decagon/f45c6d16-7a06-4a3f-ade7-c915698aba75 | Decagon | Agent Success Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/4ef4e97e-43b3-420f-be6f-1d0aab181149 | Decagon | Senior Agent Product Manager - Germany
+- [ ] https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9 | LangChain | Deployed Engineer (South EMEA)
+- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast)
+- [ ] https://jobs.ashbyhq.com/langchain/825b6d91-bc5e-4165-8a7c-2022a2248f7e | LangChain | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53 | LangChain | Deployed Engineer (Singapore)
+- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle)
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principal Software Engineer, AI Observability & Evals Platform
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823679101 | Speechmatics | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)
+- [ ] https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0 | Cohere | Solutions Architect - Defence and National Security
+- [ ] https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86 | Cohere | Engineering Manager, Agentic Platform 
+- [ ] https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+- [ ] https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb | Cohere | Head of Solutions Architecture
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7533759003 | Affirm | Analyst II, Full Stack (Fraud Analytics)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7721455003 | Affirm | Business Systems Analyst II
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7709896003 | Affirm | Compliance Lead, Fair Lending
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7719653003 | Affirm | Machine Learning Engineer II
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7710178003 | Affirm | Manager, Machine Learning Engineering (Fraud)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7723638003 | Affirm | Manager, Machine Learning Engineering (Underwriting) 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7705033003 | Affirm | Senior Engineering Manager, Machine Learning Platform
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7550573003 | Affirm | Senior Manager, Software Engineering (Online Storage)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7620529003 | Affirm | Senior Product Manager, Card Experience
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7605850003 | Affirm | Senior Product Manager, Financial Reporting
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7550522003 | Affirm | Senior Staff Machine Learning Engineer, (Machine Learning)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7728511003 | Affirm | Senior Staff Software Engineer, Backend (Data and Storage Services)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7694294003 | Affirm | Software Engineer II, Machine Learning (Feature Platform)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7694940003 | Affirm | Staff Product Manager, Affirm Bank
+- [ ] https://www.brex.com/careers/8432707002?gh_jid=8432707002 | Brex | Director of Product, Growth/AI
+- [ ] https://www.brex.com/careers/8395068002?gh_jid=8395068002 | Brex | Engineering Manager, AI — Brex Assistant
+- [ ] https://www.brex.com/careers/8367553002?gh_jid=8367553002 | Brex | Engineering Manager, GTM Engineering 
+- [ ] https://www.brex.com/careers/8438584002?gh_jid=8438584002 | Brex | Group Product Manager
+- [ ] https://www.brex.com/careers/8523203002?gh_jid=8523203002 | Brex | Software Engineer, Forward Deployed Agent Builder
+- [ ] https://www.brex.com/careers/8433764002?gh_jid=8433764002 | Brex | Staff Product Manager
+- [ ] https://www.brex.com/careers/8436527002?gh_jid=8436527002 | Brex | Staff Product Manager, Growth
+- [ ] https://boards.greenhouse.io/chime/jobs/8535232002?gh_jid=8535232002 | Chime | AI Solutions Specialist
+- [ ] https://boards.greenhouse.io/chime/jobs/8531775002?gh_jid=8531775002 | Chime | Director, Associate General Counsel, Privacy, Cybersecurity, and AI
+- [ ] https://boards.greenhouse.io/chime/jobs/8530421002?gh_jid=8530421002 | Chime | Product Manager, AI & App Experience
+- [ ] https://boards.greenhouse.io/chime/jobs/8530438002?gh_jid=8530438002 | Chime | Product Manager, MyPay
+- [ ] https://boards.greenhouse.io/chime/jobs/8530184002?gh_jid=8530184002 | Chime | Product Manager, Trust & Safety
+- [ ] https://boards.greenhouse.io/chime/jobs/8425475002?gh_jid=8425475002 | Chime | Senior Data Analyst, Authentication Risk
+- [ ] https://boards.greenhouse.io/chime/jobs/8505460002?gh_jid=8505460002 | Chime | Software Engineer, Machine Learning Platform
+- [ ] http://block.xyz/careers/jobs/5183536008?gh_jid=5183536008 | Block (Cash App) | Channel Sales Support Agent (Reseller)
+- [ ] http://block.xyz/careers/jobs/5128767008?gh_jid=5128767008 | Block (Cash App) | Fraud Program Manager, Square Financial Services
+- [ ] http://block.xyz/careers/jobs/5209350008?gh_jid=5209350008 | Block (Cash App) | Front Office Brokerage Operations Lead
+- [ ] http://block.xyz/careers/jobs/4962872008?gh_jid=4962872008 | Block (Cash App) | Information Systems Engineer, Business Systems
+- [ ] http://block.xyz/careers/jobs/5211252008?gh_jid=5211252008 | Block (Cash App) | Policy + External Affairs Communications Lead
+- [ ] http://block.xyz/careers/jobs/4963850008?gh_jid=4963850008 | Block (Cash App) | Product Manager, Advanced Insights & Modeling
+- [ ] http://block.xyz/careers/jobs/5101413008?gh_jid=5101413008 | Block (Cash App) | Senior Solutions Engineer
+- [ ] http://block.xyz/careers/jobs/5221193008?gh_jid=5221193008 | Block (Cash App) | Solutions Engineer
+- [ ] http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008 | Block (Cash App) | Staff Machine Learning Engineer, Credit Products (Square Financial Services)
+- [ ] http://block.xyz/careers/jobs/5038746008?gh_jid=5038746008 | Block (Cash App) | Staff Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7859828 | Marqeta | Credit Risk Senior Analyst
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7868953 | Marqeta | Principal Security Engineer, Product & AI
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7723772 | Marqeta | Senior Manager, Platform Engineering
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7711102 | Marqeta | Senior Product Manager, Tokenization
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983622004 | Hightouch | Account Executive, Mid-Market - Mountain West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5982446004 | Hightouch | AI Creative Designer, Ads
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6002877004 | Hightouch | Manager, Solutions Engineering, Mid-Market
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5990367004 | Hightouch | Solutions Engineer - EMEA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6001225004 | Hightouch | Solutions Engineer, Enterprise East (Pre-Sales)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6001217004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales)
+- [ ] https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1 | Clay Labs | Solutions Engineering Manager
+- [ ] https://jobs.ashbyhq.com/claylabs/1b1c004f-0e6a-41b6-bac3-971448b63a07 | Clay Labs | GTME Ecosystem - GTME & AI Teacher
+- [ ] https://jobs.ashbyhq.com/claylabs/a4cd530e-a99b-4c24-a2b7-f609ce3f59c1 | Clay Labs | Trainer, GTM Enablement
+- [ ] https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15 | Clay Labs | GTM Engineer - CX
+- [ ] https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1 | Clay Labs | GTM Engineer - Ecosystem
+- [ ] https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5 | Clay Labs | GTM Engineer - Seller Efficiency
+- [ ] https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud
+- [ ] https://jobs.ashbyhq.com/supabase/b8010a28-109c-46a9-b8b7-c7f9b24077fa | Supabase | Product Manager - Security & Trust (EMEA/AMER)
+- [ ] https://jobs.ashbyhq.com/sardine/b9bd5dbd-0c15-4357-9097-29693c0db675 | Sardine | Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/sardine/63f9b76c-0df0-49c1-b6a6-7147a52ccfc4 | Sardine | Staff Engineer - Fraud Prevention 
+- [ ] https://jobs.ashbyhq.com/sardine/1a00a64d-2dbb-4e2f-9efe-1ed32226397e | Sardine | Data Scientist
+- [ ] https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4 | Palantir | Forward Deployed Enablement Engineer - Customer Success
+- [ ] https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2 | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/2a817317-48a6-48b7-9a74-a98ccd2457d2 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian
+- [ ] https://jobs.lever.co/palantir/6bddf672-5920-46f3-8127-2a15a377cb99 | Palantir | Information Security Engineer - Insider Risk
+- [ ] https://jobs.lever.co/palantir/da426d8b-5963-42e5-9b19-84649cb519cc | Palantir | Systems Engineer - Business Systems
+- [ ] https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d | Mistral AI | AI Deployment Strategist, Defence - Singapore
+- [ ] https://jobs.lever.co/mistral/1fe045c3-40c3-4d6c-ad4a-89145f28b9fa | Mistral AI | AI Deployment Strategist, Public Sector - Singapore
+- [ ] https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer- Singapore
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
+- [ ] https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi
+- [ ] https://jobs.lever.co/mistral/249d0ec9-1824-41cb-8c4f-cb17a1d5d111 | Mistral AI | Applied Scientist / Research Engineer, AI4Engineering - EMEA
+- [ ] https://jobs.lever.co/mistral/a3b1b690-ed9e-4916-8a24-24f0ac0f1f8f | Mistral AI | Discovery Scientists - AI for Science - Paris
+- [ ] https://jobs.lever.co/mistral/7809b483-bdae-4964-97c7-5b8d232a142f | Mistral AI | Product Manager, Document Intelligence
+- [ ] https://jobs.lever.co/mistral/650e0e53-dc35-4e61-9b46-6f7ef003d0be | Mistral AI | Product Manager, Mistral Vibe
+- [ ] https://jobs.lever.co/mistral/9a6c0605-8beb-4122-99c8-ae96beea691b | Mistral AI | Solutions Architect, Partner - EMEA
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5105096007 | xAI | Senior Data Analyst - Fraud & AML
+- [x] #006 | https://job-boards.greenhouse.io/mercury/jobs/5662552004 | Mercury | Senior Data Scientist - Fraud | 3.8/5 | PDF ✅
+- [x] #009 | https://job-boards.greenhouse.io/shakepay/jobs/4694333005 | Shakepay | Senior DS - Risk | 2.2/5 | PDF ❌
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5482935004 | Mercury | Senior Risk Investigator - AML
+- [ ] https://job-boards.greenhouse.io/signifyd95/jobs/6804585 | Signifyd | Staff Data Scientist
+- [ ] https://job-boards.greenhouse.io/earnin/jobs/7641392 | EarnIn | Compliance & Fraud Analyst
+- [ ] https://boards.greenhouse.io/m1finance/jobs/5538980 | M1 Finance | Data Scientist, Risk Analytics
+- [ ] https://boards.greenhouse.io/signifyd95/jobs/4970263 | Signifyd | Senior Data Scientist I
+- [ ] https://job-boards.greenhouse.io/mqreferrals/jobs/7443506 | Marqeta | Senior Data Engineer - Risk, Fraud & Disputes
+- [ ] https://job-boards.greenhouse.io/signifyd95/jobs/7195493 | Signifyd | Senior Data Scientist
+- [ ] https://jobs.ashbyhq.com/sardine/e6764411-1740-4ce1-8a9a-79ad459082ea | Sardine | Data Scientist - Fraud Post Sales
+- [x] #003 | https://jobs.ashbyhq.com/trm-labs/9bb67e7d-c317-46da-9788-996d373144e2 | TRM Labs | Senior Data Scientist, Financial Services | 2.8/5 | PDF ❌
+- [x] #008 | https://jobs.ashbyhq.com/socure/f27090e4-0e28-443e-be07-4f811df70fa4 | Socure | DS II Fraud Consortium | 3.4/5 | PDF ❌
+- [ ] https://jobs.ashbyhq.com/sardine/030e9a89-d3f9-4021-9b5d-3b2b386beebc | Sardine | Data Scientist - Post Sales
+- [ ] https://jobs.ashbyhq.com/ramp/caf900ec-0107-436b-88bf-2bc24174e6b9 | Ramp | Fraud Risk Associate
+- [x] #002 | https://jobs.ashbyhq.com/whatnot/4a008d21-4d67-4c4e-a102-39a464691493 | Whatnot | Data Scientist, Risk & Fraud | 4.0/5 | PDF ✅
+- [x] #004 | https://jobs.ashbyhq.com/socure/503c09e7-563f-49b9-8519-53001b625bb1 | Socure | Data Scientist II - Fraud | 3.6/5 | PDF ✅
+- [ ] https://jobs.ashbyhq.com/socure/3ee84d88-b4ef-4522-95b6-32a2502c6130 | Socure | Data Scientist II - Fraud & Risk
+- [ ] https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408 | SentiLink | Data Scientist, New Grad
+- [ ] https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf | EverAI | Senior AI Product Manager (Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/procurify/36f109d4-4024-4bfe-986c-6997c02b9967 | Procurify | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13 | Writer | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/sekai/534298cc-7123-4062-b2d0-061c41ff319f | Sekai | AI Product Manager (Remote)
+- [ ] https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d | hive.co | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/acai/e3a41f3d-5fca-473e-9273-52daa7985d2a | Acai Travel | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | Product Manager
+- [ ] https://jobs.ashbyhq.com/9fin/ffe01dfd-0d71-43ee-bf04-ae2876f62c22 | 9fin | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87 | Owkin | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
+- [ ] https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc | Periodic Labs | Forward Deployed Engineer - LLM Systems
+- [ ] https://jobs.ashbyhq.com/owkin/d2467bc5-6e95-4a4f-8164-061e0262ab19 | Owkin | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57 | TRM Labs | Staff Software Engineer, Agent Engineering
+- [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
+- [ ] https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7 | Reflection AI | Forward Deployed Engineer - LLM Post-training
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4487502005 | Upgrade | Director, Credit Risk & Analytics
+- [x] #007 | https://himalayas.app/companies/datavisor/jobs/senior-data-scientist-fraud-detection | DataVisor | Senior DS - Fraud Detection | 3.7/5 | PDF ✅
+- [ ] https://himalayas.app/companies/teya/jobs/senior-fraud-transaction-monitoring-engineering-manager | Teya | Senior Fraud & Transaction Monitoring Engineering Manager
+- [ ] https://himalayas.app/companies/experian/jobs/data-scientist-model-risk-management | Experian | Data Scientist - Model Risk Management
+- [ ] https://himalayas.app/companies/truist/jobs/deposit-fraud-strategy-data-scientist | Truist | Deposit Fraud Strategy - Data Scientist
+- [ ] https://himalayas.app/companies/ramp/jobs/staff-applied-scientist-credit-risk | Ramp | Staff Applied Scientist, Credit Risk
+- [ ] https://himalayas.app/companies/ramp/jobs/fraud-risk-analyst | Ramp | Fraud Risk Analyst
+- [ ] https://himalayas.app/companies/block/jobs/fraud-customer-risk-insights-group-lead | Block | Fraud & Customer Risk Insights Group Lead
