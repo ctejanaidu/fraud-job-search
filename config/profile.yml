@@ -11,27 +11,27 @@ candidate:
 
 target_roles:
   primary:
-    - "Senior Data Scientist"
-    - "Senior AI/ML Engineer"
+    - "Data Scientist"
+    - "AI/ML Engineer"
     - "Senior Machine Learning Engineer"
     - "Applied AI Engineer"
-    - "LLM Engineer"
+    - "Senior Data Scientist"
   archetypes:
     - name: "Senior Data Scientist (AI/GenAI focus)"
       level: "Senior"
-      fit: "primary"
+      fit: "secondary"
     - name: "Senior ML / AI Engineer"
       level: "Senior"
-      fit: "primary"
+      fit: "secondary"
     - name: "LLM / Agentic AI Engineer"
       level: "Senior"
-      fit: "primary"
+      fit: "secondary"
     - name: "AI Platform / MLOps Engineer"
       level: "Senior"
       fit: "secondary"
     - name: "Data Scientist (Finance / Fraud / Risk)"
       level: "Senior"
-      fit: "secondary"
+      fit: "primary"
 
 narrative:
   headline: "Data Scientist specializing in agentic AI, RAG pipelines, and production LLM systems"
@@ -42,6 +42,8 @@ narrative:
     - "Regulated industry experience: responsible AI, explainability, compliance in finance & healthcare"
     - "Full-stack data skills: Python, SQL, Spark, AWS, Azure — from raw data to deployed model"
     - "LLM evaluation: factuality, grounding, hallucination detection, observability (MLflow, LangSmith)"
+    - "Built a XGBoost, LSTM Champion-Challenger Model to detect fraud"
+    - "Orchestrated data pipelines in Airflow"
   proof_points:
     - name: "LLM Fraud Investigation Agents — U.S. Bank"
       hero_metric: "Automated decision support, reduced manual review effort"
@@ -51,9 +53,9 @@ narrative:
       hero_metric: "BioBERT-based risk extraction from unstructured clinical notes"
 
 compensation:
-  target_range: "$130K–$160K"
+  target_range: "$100K–$150K"
   currency: "USD"
-  minimum: "$110K"
+  minimum: "$100K"
   location_flexibility: "Open to remote or hybrid in TX/US"
 
 location:
